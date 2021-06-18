@@ -1,0 +1,6 @@
+.car{
+    left: -9vw;
+}
+.track{
+    animation: carmove linear 3s infinite;
+}

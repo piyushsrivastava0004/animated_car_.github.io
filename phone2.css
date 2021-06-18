@@ -1,0 +1,15 @@
+button{
+    width: 21vw;
+}
+.car{
+    animation: shake linear .3s infinite;
+}
+.track{
+    animation: carmove linear 6s infinite;
+}
+.wheel1 img{
+    animation: wheelRotation linear .3s infinite;
+}
+.wheel2 img{
+    animation: wheelRotation linear .3s infinite;
+}

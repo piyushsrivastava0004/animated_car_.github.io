@@ -1,0 +1,9 @@
+.car{
+    left: 0vw;
+}
+button{
+    width: 41vw;
+}
+.track{
+    animation: carmove linear 4s infinite;
+}
